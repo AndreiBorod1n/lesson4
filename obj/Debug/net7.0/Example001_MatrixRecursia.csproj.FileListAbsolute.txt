@@ -1,0 +1,15 @@
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\Lesson4\Example001_MatrixRecursia\obj\Debug\net7.0\Example001_MatrixRecursia.csproj.AssemblyReference.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\Lesson4\Example001_MatrixRecursia\obj\Debug\net7.0\Example001_MatrixRecursia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\Lesson4\Example001_MatrixRecursia\obj\Debug\net7.0\Example001_MatrixRecursia.AssemblyInfoInputs.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\Lesson4\Example001_MatrixRecursia\obj\Debug\net7.0\Example001_MatrixRecursia.AssemblyInfo.cs
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\Lesson4\Example001_MatrixRecursia\obj\Debug\net7.0\Example001_MatrixRecursia.csproj.CoreCompileInputs.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\Lesson4\Example001_MatrixRecursia\bin\Debug\net7.0\Example001_MatrixRecursia.exe
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\Lesson4\Example001_MatrixRecursia\bin\Debug\net7.0\Example001_MatrixRecursia.deps.json
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\Lesson4\Example001_MatrixRecursia\bin\Debug\net7.0\Example001_MatrixRecursia.runtimeconfig.json
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\Lesson4\Example001_MatrixRecursia\bin\Debug\net7.0\Example001_MatrixRecursia.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\Lesson4\Example001_MatrixRecursia\bin\Debug\net7.0\Example001_MatrixRecursia.pdb
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\Lesson4\Example001_MatrixRecursia\obj\Debug\net7.0\Example001_MatrixRecursia.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\Lesson4\Example001_MatrixRecursia\obj\Debug\net7.0\refint\Example001_MatrixRecursia.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\Lesson4\Example001_MatrixRecursia\obj\Debug\net7.0\Example001_MatrixRecursia.pdb
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\Lesson4\Example001_MatrixRecursia\obj\Debug\net7.0\Example001_MatrixRecursia.genruntimeconfig.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\Lesson4\Example001_MatrixRecursia\obj\Debug\net7.0\ref\Example001_MatrixRecursia.dll
